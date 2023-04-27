@@ -40,9 +40,14 @@ function App() {
     console.log(user);
     let flag = false;
     userData.map((prevUser) => {
-      if (user == prevUser) {
+       if (
+        user.firstName === prevUser.firstName &&
+        user.LastName === prevUser.LastName &&
+        user.contactNum === prevUser.contactNum && !flag
+
+      ) {
         flag = true;
-        return;
+        // return;
       }
     });
 
