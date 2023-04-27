@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.dataComponent{
+  padding: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+
+.form{
+  margin: 50px auto 70px auto;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.form-head{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  align-items: flex-start;
+}
+
+.contact{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  align-items: flex-start;
+}
+
+input{
+  margin: 0 0 10px;
+}
+
+.form-outline{
+  margin: 0 auto 0;
+  width: 50%;
+  margin-bottom: 0;
+}

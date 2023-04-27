@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "firstName": "Gopal ",
+      "LastName": "Burute",
+      "contactNum": "8754965412",
+      "id": 2
+    },
+    {
+      "firstName": "Ram ",
+      "LastName": "Raja",
+      "contactNum": "1265487954",
+      "id": 3
+    },
+    {
+      "firstName": "Shakti",
+      "LastName": "singh",
+      "contactNum": "1245789545",
+      "id": 4
+    },
+    {
+      "firstName": "Mamta",
+      "LastName": "mukherjee",
+      "contactNum": "5487965215",
+      "id": 5
+    },
+    {
+      "firstName": "Raja",
+      "LastName": "Purohit",
+      "contactNum": "5487965485",
+      "id": 6
+    },
+    {
+      "firstName": "Raju",
+      "LastName": "Kumar",
+      "contactNum": "8547854126",
+      "id": 7
+    },
+    {
+      "firstName": "Gopal",
+      "LastName": "burute",
+      "contactNum": "5485652458",
+      "id": 8
+    },
+    {
+      "firstName": "Gopal",
+      "LastName": "Burute",
+      "contactNum": "5454545454",
+      "id": 9
+    },
+    {
+      "firstName": "gopal",
+      "LastName": "burute",
+      "contactNum": "8754965412",
+      "id": 10
+    },
+    {
+      "firstName": "Shakti",
+      "LastName": "singh",
+      "contactNum": "1245789545",
+      "id": 11
+    },
+    {
+      "firstName": "Gopal",
+      "LastName": "Burute",
+      "contactNum": "8754965412",
+      "id": 12
+    }
+  ]
+}
