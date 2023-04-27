@@ -3,7 +3,6 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 function App() {
-  const headTitle = ["SN", "Name", "Contact", "Delete"];
 
   // const [firstName, setfirstName] = useState('Ankit');
   // const [lastName, setlastName] = useState('Girase');
